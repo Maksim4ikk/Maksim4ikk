@@ -1,10 +1,3 @@
-
-<p align="center">
-  <img src="./0559559ec27203deaaae999c685e4e34.jpg" alt="Profile Banner" width="100%" />
-</p>
-
-<br/>
-
 <p align="center" width="100%">
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="50%" />
   &nbsp;&nbsp;
