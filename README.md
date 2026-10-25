@@ -4,8 +4,8 @@
   <img src="./metrics.plugin.isocalendar.svg" alt="Isometric Contribution Calendar" width="45%" />
 </p>
 
-<h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,git,github,githubactions,docker,linux,vscode&perline=10" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,ktor,git,github,ts,githubactions,opencv,tensorflow,py,sqlite,mysql&perline=14&theme=dark" alt="Mobile Development and Tools" />
 </p>
+
