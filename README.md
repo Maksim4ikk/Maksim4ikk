@@ -2,7 +2,7 @@
   <img
     src="https://raw.githubusercontent.com/Maksim4ikk/Maksim4ikk/main/profile-summary-card-output/github_dark/3-stats.svg"
     alt="GitHub Statistics"
-    width="49%"
+    width="48%"
   />
   &nbsp;&nbsp;
   <img src="./metrics.plugin.isocalendar.svg" alt="Isometric Contribution Calendar" width="45%" />
@@ -12,13 +12,13 @@
   <img
     src="https://raw.githubusercontent.com/Maksim4ikk/Maksim4ikk/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
     alt="Top Languages by Commit"
-    width="49%"
+    width="48%"
   />
   &nbsp;&nbsp;
     <img
     src="https://raw.githubusercontent.com/Maksim4ikk/Maksim4ikk/main/profile-summary-card-output/github_dark/4-productive-time.svg"
     alt="GitHub Productive Time"
-    width="49%"
+    width="48%"
   />
 
 <p align="center">
