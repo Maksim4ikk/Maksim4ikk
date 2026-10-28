@@ -6,8 +6,6 @@
   &nbsp;&nbsp;
   <img src="./metrics.plugin.isocalendar.svg" alt="Isometric Contribution Calendar" width="45%" />
 
-
-
   <img
     src="https://raw.githubusercontent.com/Maksim4ikk/Maksim4ikk/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
     alt="Top Languages by Commit"
