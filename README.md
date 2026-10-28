@@ -1,4 +1,3 @@
-
   <img
     src="https://raw.githubusercontent.com/Maksim4ikk/Maksim4ikk/main/profile-summary-card-output/github_dark/3-stats.svg"
     alt="GitHub Statistics"
